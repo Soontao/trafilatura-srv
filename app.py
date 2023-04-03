@@ -1,8 +1,6 @@
 from fastapi import FastAPI
-from trafilatura import fetch_url, extract
-from dataclasses import dataclass
 from pydantic import BaseModel
-
+from trafilatura import extract, fetch_url
 
 app = FastAPI()
 
