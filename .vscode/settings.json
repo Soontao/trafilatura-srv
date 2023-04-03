@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "fastapi",
+    "Trafilatura"
+  ],
+  "editor.formatOnSave": true,
+  "python.formatting.autopep8Args": [
+    "--indent-size=2"
+  ]
+}
